@@ -1,0 +1,56 @@
+﻿Privacy Policy
+Effective Date: 08/07/2026
+This Privacy Policy explains how Frostbridge AI, Inc, doing business as Frostbridge (“Frostbridge,” “we,” “us,” or “our”), collects, uses, discloses, and protects personal information in connection with our websites, applications, SaaS platform, agents, browser extensions, integrations, support, sales, and related services.
+This Privacy Policy is written for website visitors, prospects, account users, administrators, and individuals who interact directly with Frostbridge. Customer Data processed by Frostbridge on behalf of a business customer is primarily governed by the Frostbridge Customer Agreement and Data Processing Addendum.
+1. Information we collect
+We may collect the following categories of information:
+* Account and contact information: name, business email, company name, job title, phone number, login credentials, organization identifiers, and user profile details.
+* Billing and commercial information: subscription plan, seats, billing contact, invoices, payment status, tax information, and payment metadata. Payment card details may be processed by our payment provider and not stored by Frostbridge.
+* Product and usage information: login events, admin actions, seat changes, feature usage, API usage, audit logs, product telemetry, error logs, and support interactions.
+* Security and integration data: data made available through customer-connected systems such as identity providers, cloud accounts, code repositories, SaaS tools, AI tools, browsers, endpoints, agents, extensions, and other integrations. This may include security events, device metadata, browser/app activity, prompt and response metadata or content, network or process metadata, access events, repository metadata, and related context depending on customer configuration.
+* Website and device information: IP address, device identifiers, browser type, operating system, referral URL, pages viewed, and cookie or similar technology data.
+* Communications: emails, chat messages, demo requests, support tickets, call notes, and feedback.
+2. Sources of information
+We collect information directly from users and administrators, from customer-connected systems, from agents/extensions deployed by customers, from service providers, from authentication and payment providers, from public sources, and automatically through cookies, logs, and similar technologies.
+3. How we use information
+We use information to:
+* provide, operate, secure, monitor, and improve Frostbridge;
+* create and administer accounts, subscriptions, seats, billing, and support;
+* connect and operate integrations, agents, APIs, and security workflows;
+* generate alerts, recommendations, risk scores, reports, and AI-assisted outputs;
+* detect, prevent, investigate, and respond to security, fraud, abuse, reliability, and legal issues;
+* communicate about products, security notices, updates, and administrative matters;
+* conduct analytics, debugging, research, product development, and de-identified or aggregated analysis;
+* comply with law, enforce agreements, and protect rights.
+4. Customer-controlled data
+Business customers decide which systems to connect, which agents/extensions to deploy, which users to monitor, and what data to make available to Frostbridge. Customers are responsible for providing required notices, obtaining required consents, and ensuring that their use of Frostbridge complies with employment, privacy, monitoring, BYOD, works council, sector-specific, and other applicable laws.
+5. AI processing
+Frostbridge may use AI models and automated systems to classify, summarize, enrich, score, prioritize, or recommend actions based on data processed through the Services. AI outputs may be incomplete, inaccurate, or require human review. Unless otherwise stated in the Customer Agreement or DPA, Frostbridge uses Customer Data to provide and improve the Services, including security, reliability, debugging, detection quality, and product functionality. Customer Data is not sold.
+6. How we disclose information
+We may disclose information to:
+* service providers and subprocessors that host, secure, operate, support, analyze, or improve Frostbridge;
+* payment processors, authentication providers, cloud providers, database providers, email providers, support tools, analytics tools, and AI infrastructure providers;
+* customer administrators and authorized users within the customer’s organization;
+* professional advisors, auditors, insurers, and legal counsel;
+* government authorities or third parties when required by law or to protect rights, safety, security, or the integrity of Frostbridge;
+* parties involved in a merger, acquisition, financing, corporate reorganization, or sale of assets.
+7. Cookies and similar technologies
+We may use cookies, pixels, local storage, and similar technologies for essential site functionality, authentication, analytics, security, preferences, and marketing. More information is provided in the Frostbridge Cookie Notice.
+8. Legal bases for EEA/UK processing
+Where applicable, we process personal information based on performance of a contract, legitimate interests, consent, compliance with legal obligations, and protection of rights and security. Customers acting as controllers are responsible for identifying their legal bases for Customer Data processed through the Services.
+9. International transfers
+Frostbridge may process and transfer information in the United States and other countries where Frostbridge or its service providers operate. Where required, Frostbridge uses appropriate transfer mechanisms, such as standard contractual clauses or other lawful mechanisms.
+10. Retention
+We retain information for as long as reasonably necessary to provide the Services, comply with legal obligations, resolve disputes, enforce agreements, maintain security, and support business operations. Retention periods may vary by data type, customer configuration, contract terms, legal requirements, and backup practices.
+11. Security
+We use reasonable technical and organizational measures designed to protect information. No system is completely secure, and Frostbridge cannot guarantee that unauthorized access, disclosure, alteration, or loss will never occur.
+12. Your privacy rights
+Depending on your location, you may have rights to access, correct, delete, port, restrict, object to, or opt out of certain processing of personal information. To exercise rights, contact [privacy@frostbridge.ai]. Where Frostbridge processes Customer Data on behalf of a customer, we may direct your request to that customer.
+13. California notice
+If the California Consumer Privacy Act, as amended, applies, California residents may have rights to know, access, correct, delete, opt out of sale/share, and limit certain uses of sensitive personal information. Frostbridge does not sell personal information in the ordinary sense. If Frostbridge uses advertising or analytics technologies that are treated as “sharing” or “sale” under California law, Frostbridge will provide applicable notices and choices.
+14. Children
+Frostbridge is a business SaaS product and is not directed to children. We do not knowingly collect personal information from children under 13.
+15. Changes
+We may update this Privacy Policy from time to time. The updated version will be effective when posted unless otherwise stated.
+16. Contact
+Privacy questions may be sent to privacy@frostbridge.ai.
