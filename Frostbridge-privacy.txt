@@ -1,5 +1,5 @@
 ﻿Privacy Policy
-Effective Date: 08/07/2026
+Effective Date: 10/22/2026
 This Privacy Policy explains how Frostbridge AI, Inc, doing business as Frostbridge (“Frostbridge,” “we,” “us,” or “our”), collects, uses, discloses, and protects personal information in connection with our websites, applications, SaaS platform, agents, browser extensions, integrations, support, sales, and related services.
 This Privacy Policy is written for website visitors, prospects, account users, administrators, and individuals who interact directly with Frostbridge. Customer Data processed by Frostbridge on behalf of a business customer is primarily governed by the Frostbridge Customer Agreement and Data Processing Addendum.
 1. Information we collect
@@ -29,13 +29,16 @@ Frostbridge may use AI models and automated systems to classify, summarize, enri
 6. How we disclose information
 We may disclose information to:
 * service providers and subprocessors that host, secure, operate, support, analyze, or improve Frostbridge;
-* payment processors, authentication providers, cloud providers, database providers, email providers, support tools, analytics tools, and AI infrastructure providers;
+* payment processors, authentication providers, cloud providers, database providers, email providers, support tools, analytics tools (including Google Analytics, provided by Google LLC, as described in Section 7), and AI infrastructure providers;
 * customer administrators and authorized users within the customer’s organization;
 * professional advisors, auditors, insurers, and legal counsel;
 * government authorities or third parties when required by law or to protect rights, safety, security, or the integrity of Frostbridge;
 * parties involved in a merger, acquisition, financing, corporate reorganization, or sale of assets.
 7. Cookies and similar technologies
-We may use cookies, pixels, local storage, and similar technologies for essential site functionality, authentication, analytics, security, preferences, and marketing. More information is provided in the Frostbridge Cookie Notice.
+We may use cookies, pixels, local storage, and similar technologies for essential site functionality, authentication, analytics, security, preferences, and marketing.
+* Essential: cookies and local storage needed to sign in, keep a session secure, and remember settings. The Services do not work without them.
+* Product analytics: the Frostbridge dashboard, including customer-branded portals that Frostbridge hosts, uses Google Analytics (Google LLC) to understand how the product is used, for example which pages are visited and which setup steps are completed. Google Analytics sets its own cookies (such as _ga and _ga_<ID>) and receives pseudonymous identifiers that Frostbridge assigns (an internal user identifier, organization identifier, role, and plan), page paths with tokens and query strings removed, the site hostname, and browser and device information. Frostbridge does not send names, email addresses, organization names, credentials, or the content of prompts, files, or sessions to Google Analytics. Google signals and advertising personalization are disabled, and Frostbridge does not use Google Analytics for advertising. You can block or delete these cookies in your browser settings or use Google's opt-out browser add-on (tools.google.com/dlpage/gaoptout).
+* Usage statistics: Frostbridge also computes aggregate statistics about use of the Services, such as daily totals of events processed and active accounts, as described in Section 3. These statistics do not identify individuals.
 8. Legal bases for EEA/UK processing
 Where applicable, we process personal information based on performance of a contract, legitimate interests, consent, compliance with legal obligations, and protection of rights and security. Customers acting as controllers are responsible for identifying their legal bases for Customer Data processed through the Services.
 9. International transfers
@@ -47,7 +50,7 @@ We use reasonable technical and organizational measures designed to protect info
 12. Your privacy rights
 Depending on your location, you may have rights to access, correct, delete, port, restrict, object to, or opt out of certain processing of personal information. To exercise rights, contact [privacy@frostbridge.ai]. Where Frostbridge processes Customer Data on behalf of a customer, we may direct your request to that customer.
 13. California notice
-If the California Consumer Privacy Act, as amended, applies, California residents may have rights to know, access, correct, delete, opt out of sale/share, and limit certain uses of sensitive personal information. Frostbridge does not sell personal information in the ordinary sense. If Frostbridge uses advertising or analytics technologies that are treated as “sharing” or “sale” under California law, Frostbridge will provide applicable notices and choices.
+If the California Consumer Privacy Act, as amended, applies, California residents may have rights to know, access, correct, delete, opt out of sale/share, and limit certain uses of sensitive personal information. Frostbridge does not sell personal information in the ordinary sense. Frostbridge does not use Google Analytics for cross-context behavioral advertising, and its advertising features are disabled. If Frostbridge uses advertising or analytics technologies that are treated as “sharing” or “sale” under California law, Frostbridge will provide applicable notices and choices.
 14. Children
 Frostbridge is a business SaaS product and is not directed to children. We do not knowingly collect personal information from children under 13.
 15. Changes
